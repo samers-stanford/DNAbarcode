@@ -1,0 +1,14 @@
+filename,compound,conc_uM,split_ratio,has_D_folder,mzdata_present
+3methyl-Cyclopentanone_500_ex.mzdata.xml,3methyl-Cyclopentanone,500,none,True,True
+3methyl-Cyclopentanone_50_ex.mzdata.xml,3methyl-Cyclopentanone,50,none,True,True
+Cyclopentanone_500_ex.mzdata.xml,Cyclopentanone,500,none,False,True
+Cyclopentanone_50_ex.mzdata.xml,Cyclopentanone,50,none,False,True
+blank1.mzdata.xml,blank1,N/A,none,True,True
+cis-jasmone_500_ex_1to10.mzdata.xml,cis-jasmone,500,1to10,True,True
+cis-jasmone_500_ex_1to20.mzdata.xml,cis-jasmone,500,1to20,True,True
+cis-pentenol_500_ex.mzdata.xml,cis-pentenol,500,none,False,True
+cis-pentenol_50_ex.mzdata.xml,cis-pentenol,50,none,True,True
+jasmone_500_ex.mzdata.xml,jasmone,500,none,False,True
+jasmone_50_ex.mzdata.xml,jasmone,50,none,False,True
+trans_pentenal_500_ex.mzdata.xml,trans_pentenal,500,none,False,True
+trans_pentenal_50_ex.mzdata.xml,trans_pentenal,50,none,False,True

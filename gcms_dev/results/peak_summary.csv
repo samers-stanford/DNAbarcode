@@ -1,0 +1,14 @@
+filename,compound,conc_uM,split_ratio,apex_RT_min,apex_TIC_1e6,base_peak_mz,top5_fragment_mz,near_solvent_front
+3methyl-Cyclopentanone_50_ex.mzdata.xml,3methyl-Cyclopentanone,50,none,2.349,1.312,61,"[61, 70, 73, 88, 60]",True
+Cyclopentanone_50_ex.mzdata.xml,Cyclopentanone,50,none,2.349,1.484,61,"[61, 70, 73, 88, 57]",True
+jasmone_50_ex.mzdata.xml,jasmone,50,none,2.349,2.514,61,"[61, 70, 73, 88, 60]",True
+cis-pentenol_50_ex.mzdata.xml,cis-pentenol,50,none,2.349,1.605,61,"[61, 70, 73, 88, 57]",True
+trans_pentenal_50_ex.mzdata.xml,trans_pentenal,50,none,2.349,1.714,61,"[61, 70, 73, 88, 57]",True
+Cyclopentanone_500_ex.mzdata.xml,Cyclopentanone,500,none,2.783,8.635,55,"[55, 84, 56, 53, 85]",False
+cis-jasmone_500_ex_1to10.mzdata.xml,cis-jasmone,500,1to10,8.654,5.225,79,"[79, 164, 110, 91, 149]",False
+cis-jasmone_500_ex_1to20.mzdata.xml,cis-jasmone,500,1to20,8.66,1.742,79,"[79, 164, 110, 91, 149]",False
+jasmone_500_ex.mzdata.xml,jasmone,500,none,8.666,18.789,79,"[79, 164, 110, 149, 91]",False
+blank1.mzdata.xml,blank1,N/A,none,14.689,1.673,99,"[99, 69, 112, 95, 55]",False
+cis-pentenol_500_ex.mzdata.xml,cis-pentenol,500,none,14.702,19.077,99,"[99, 112, 69, 113, 55]",False
+3methyl-Cyclopentanone_500_ex.mzdata.xml,3methyl-Cyclopentanone,500,none,14.703,19.626,99,"[99, 112, 69, 113, 55]",False
+trans_pentenal_500_ex.mzdata.xml,trans_pentenal,500,none,14.703,19.102,99,"[99, 112, 69, 113, 55]",False
