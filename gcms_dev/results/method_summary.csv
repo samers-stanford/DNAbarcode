@@ -1,0 +1,7 @@
+oven_initial_C,oven_hold_min,ramp1_rate,ramp1_to_C,ramp2_rate,ramp2_to_C,ramp2_hold_min,inlet_mode,inlet_temp_C,carrier_flow_mLmin,carrier_mode,transfer_line_C,solvent_delay_min,scan_low_mz,scan_high_mz,column_info,column_desc,column_dims,run_time_min,D_folder
+50,3,20,160,20,320,5,Splitless,280,1,Constant Flow,N/A,2.25,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,3methyl-Cyclopentanone_500_ex.D
+50,3,20,160,20,320,5,Splitless,280,1,Constant Flow,N/A,2.25,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,3methyl-Cyclopentanone_50_ex.D
+50,3,20,160,20,320,5,Splitless,280,1,Constant Flow,N/A,2.5,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,blank1.D
+50,3,20,160,20,320,5,Split,280,1,Constant Flow,N/A,2.25,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,cis-jasmone_500_ex_1to10.D
+50,3,20,160,20,320,5,Split,280,1,Constant Flow,N/A,2.25,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,cis-jasmone_500_ex_1to20.D
+50,3,20,160,20,320,5,Splitless,280,1,Constant Flow,N/A,2.25,50,550,Agilent CP9046,VF-5ht,30 m x 250 μm x 0.1 μm (Uncalibrated),21.5,cis-pentenol_50_ex.D
