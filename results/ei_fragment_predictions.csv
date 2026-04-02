@@ -1,0 +1,20 @@
+Nominal m/z,Exact m/z,Formula,Ion Type,Mechanism,Expected Rel %,Tier,Notes
+81,81.0704,C6H9,[C₆H₉]+,m/z 81: methylcyclopentenyl / cyclohexadienyl cation,85,1,"Top fragment in CFM-ID [M+H]+ ESI prediction (29.9%). Under EI, forms from enone (m/z 164) via ring contraction or allylic cleavage. C₆H₉+ = methylcyclopentenyl cation, m/z 81.0704."
+84,84.0575,C5H8O1,[C₅H₈O]+·,Retro-aldol B: (E)-pent-2-en-1-al cation (chain half),30,1,m/z 84. Complementary to m/z 98; observe both → confirms retro-aldol.
+98,98.0732,C6H10O1,[C₆H₁₀O]+·,Retro-aldol A: 3-methylcyclopentanone cation (ring half),65,1,Very diagnostic — confirms the cyclopentanone ring with methyl substituent. Complements m/z 164 as a 'two-ion fingerprint'.
+164,164.1201,C11H16O1,[M−H₂O]+·,β-OH ketone dehydration → conjugated enone C11H16O+·,100,1,"MOST DIAGNOSTIC. Absent from CFM-ID (ESI/CID does not produce this radical-cation 1,4-elimination). Should be base peak or near-base peak."
+182,182.1307,C11H18O2,M+·,Molecular radical cation,20,1,Often weak for β-OH ketones; look for it but do not require it as base peak
+55,55.0548,C4H7,[C₄H₇]+,m/z 55: butenyl / methallyl cation C₄H₇+,55,2,Very common EI fragment for compounds with C4 alkyl/alkenyl groups. Strong in CFM-ID ESI (12.6%). Less specific but useful corroboration.
+69,69.0704,C5H9,[C₅H₉]+,m/z 69: pentenyl cation C₅H₉+,40,2,From allylic cleavage of the pent-2-en chain. Third-highest in CFM-ID ESI (4.5%). Diagnostic for C5 alkene chain.
+71,71.0497,C4H7O1,[C₄H₇O]+,α-Cleavage dir.2: ring-opened acylium C4H7O+,45,2,m/z 71; after ring-open α-cleavage. Common fragment for methylcyclopentanones.
+83,83.0497,C5H7O1,[C₅H₇O]+,m/z 83: cyclopentenyl oxycarbenium [C₅H₇O]+ or methylcyclopentadienyl,40,2,Common secondary fragment from cyclopentanone ring systems.
+99,99.081,C6H11O1,[C₆H₁₁O]+,m/z 99: 3-methylcyclopentenone-related acylium [C₆H₁₁O]+,50,2,Expected from α-cleavage / retro-aldol secondary fragmentation. Also the second-highest fragment in CFM-ID ESI prediction (8.5%).
+121,121.0653,C8H9O1,[C₈H₉O]+,164−43: loss of propyl C₃H₇· from enone → m/z 121,25,2,Formed from m/z 164. Loss of propyl from the pent-2-en-1-ylidene chain.
+135,135.1174,C10H15,[C₁₀H₁₅]+,"164−29: α-cleavage of enone, loss of CHO· → m/z 135",30,2,Formed from the m/z 164 enone by α-cleavage. CHO loss = 29 Da.
+139,139.1123,C9H15O1,[C₉H₁₅O]+,"α-Cleavage dir.1: acylium retaining C=O + chain, m/z 139",55,2,Also accessible as M−43 (loss of neutral C₃H₇· propyl radical from chain).
+153,153.1279,C10H17O1,[C₁₀H₁₇O]+,M−29: loss of CHO· from M+· → m/z 153,25,2,Common for molecules with aldehyde-adjacent bonds; less expected here but observed empirically in many ketone EI spectra.
+41,41.0391,C3H5,[C₃H₅]+,m/z 41: allyl cation C₃H₅+,35,3,Ubiquitous EI fragment; low specificity.
+43,43.0548,C3H7,[C₃H₇]+,m/z 43: propyl cation C₃H₇+,30,3,Common; also overlaps acetyl C₂H₃O+ at m/z 43.018 vs 43.055 (needs HR-MS).
+57,57.0704,C4H9,[C₄H₉]+,m/z 57: butyl / tert-butyl cation C₄H₉+,40,3,Very common EI fragment; low specificity.
+67,67.0548,C5H7,[C₅H₇]+,m/z 67: dienyl/cyclopentenyl cation C₅H₇+,25,3,Secondary fragment; weaker but contributes to terpene-like background.
+112,112.0888,C7H12O1,[C₇H₁₂O]+·,McLafferty rearrangement: C₇H₁₂O+· m/z 112,20,3,Requires 6-membered TS; γ-H from C4 of ring or C5 of chain transfers to C=O.
