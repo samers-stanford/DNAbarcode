@@ -1,0 +1,16 @@
+Run,RT (min),Base Peak m/z,Major Ions >182?,Compound Assignment,Disqualifying Feature,m/z 164 rel%,m/z 182 rel%,m/z 81 rel%,m/z 99 rel%,Cosine vs Target (revised ref),Match Confidence,In All Runs?
+76,8.35,138,No,Aromatic compound (MW~138),MW~138; no ions >138; CO loss 138->108; MW<<182,0.2,0.0,4.2,1.0,0.573,No match,Yes
+79,8.35,138,No,Aromatic compound (MW~138),MW~138; no ions >138; CO loss 138->108; MW<<182,0.2,0.0,4.3,1.2,0.575,No match,Yes
+82,8.35,138,No,Aromatic compound (MW~138),MW~138; no ions >138; CO loss 138->108; MW<<182,0.3,0.0,4.3,1.0,0.576,No match,Yes
+76,9.36,191,Yes,Sesquiterpene/aromatic (MW>182),Base peak m/z 191 > target MW 182; ions above 182 at >10%,0.6,0.2,1.3,3.5,0.396,No match,Yes
+79,9.36,191,Yes,Sesquiterpene/aromatic (MW>182),Base peak m/z 191 > target MW 182; ions above 182 at >10%,0.7,0.2,1.2,3.6,0.397,No match,Yes
+82,9.36,191,Yes,Sesquiterpene/aromatic (MW>182),Base peak m/z 191 > target MW 182; ions above 182 at >10%,0.7,0.2,1.2,3.5,0.396,No match,Yes
+76,9.68,57,Yes,"n-Tridecane (C13H28, MW~184)",+14 Da alkane series; m/z 182=[M-2]+ of C13H28; same in ctrl,2.4,3.7,21.7,20.8,0.432,No match (tridecane),Yes
+79,9.68,57,Yes,"n-Tridecane (C13H28, MW~184)",+14 Da alkane series; m/z 182=[M-2]+ of C13H28; same in ctrl,2.3,3.1,19.1,21.6,0.417,No match (tridecane),Yes
+82,9.68,57,Yes,"n-Tridecane (C13H28, MW~184)",+14 Da alkane series; m/z 182=[M-2]+ of C13H28; same in ctrl,2.6,3.0,20.8,21.7,0.424,No match (tridecane),Yes
+76,14.26,57,Yes,"Methyl palmitate (FAME, MW=270)",m/z 239=[M-OCH3]+ of palmitate; McLafferty m/z 74; MW=270>>182,0.4,6.3,14.0,27.0,0.453,No match (FAME),Yes
+79,14.26,57,Yes,"Methyl palmitate (FAME, MW=270)",m/z 239=[M-OCH3]+ of palmitate; McLafferty m/z 74; MW=270>>182,0.4,6.4,14.3,25.5,0.453,No match (FAME),Yes
+82,14.26,57,Yes,"Methyl palmitate (FAME, MW=270)",m/z 239=[M-OCH3]+ of palmitate; McLafferty m/z 74; MW=270>>182,0.3,5.4,13.7,30.0,0.453,No match (FAME),Yes
+76,14.7,99,Yes,Column bleed/plasticizer (MW>>182),m/z 376/408/420 >> MW 182; silicone column bleed pattern,0.1,3.0,4.9,100.0,0.374,No match (bleed),Yes
+79,14.7,99,Yes,Column bleed/plasticizer (MW>>182),m/z 376/408/420 >> MW 182; silicone column bleed pattern,0.1,3.0,5.2,100.0,0.377,No match (bleed),Yes
+82,14.7,99,Yes,Column bleed/plasticizer (MW>>182),m/z 376/408/420 >> MW 182; silicone column bleed pattern,0.1,3.0,4.8,100.0,0.371,No match (bleed),Yes
